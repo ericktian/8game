@@ -1,0 +1,2 @@
+asdf = "asdf"
+print(asdf[:])
